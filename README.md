@@ -63,5 +63,4 @@ Columns included in the dataset:
 ---
 
 ## 👤 Author
-Your Name  
-Data Analytics Enthusiast
+Kritika Gupta
